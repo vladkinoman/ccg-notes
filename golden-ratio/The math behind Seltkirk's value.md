@@ -1,4 +1,4 @@
-![Seltkirk of Gulet](golden-ratio/images/seltkirk.png)
+![Seltkirk of Gulet](./images/seltkirk.png)
 
 To get max
 value out of Seltkirk, you want to kill your target in EXACTLY two hits while
