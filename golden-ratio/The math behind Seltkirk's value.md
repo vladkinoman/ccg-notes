@@ -1,5 +1,5 @@
 <div style="float:left; margin-right:25px;"> ![Seltkirk of
-Gulet](images/seltkirk.png) </div>  <p>Seltkirk: 8 Power + 3 Armor
+Gulet](/images/seltkirk.png) </div>  <p>Seltkirk: 8 Power + 3 Armor
 
 To get max
 value out of Seltkirk, you want to kill your target in EXACTLY two hits while
