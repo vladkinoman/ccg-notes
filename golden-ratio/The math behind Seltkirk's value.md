@@ -1,4 +1,12 @@
-![Seltkirk of Gulet](./images/seltkirk.png)
+<div style="float:left; margin-right:25px;">
+
+![Seltkirk of Gulet](./images/seltkirk.PNG)
+
+</div>  
+
+ <div>
+  
+<p> Seltkirk: 8 Power + 3 Armor.
 
 To get max
 value out of Seltkirk, you want to kill your target in EXACTLY two hits while
@@ -43,7 +51,10 @@ target has power lower than P + A, your value is decreased by 1 for each power
 lower. If your target has power higher than 1.5P + 0.5A, your value falls off
 pretty quickly, and rapidly reaches a lower bound of P, which occurs when your
 target is at least 2*P + A (meaning it kills Seltkirk on its first retaliation).
+
 **TL;DR**: Seltkirk's value increases by 2 for each point he's buffed. His max
 potential value is **2*P + A**, which is achieved by choosing a target that he
 kills in exactly two hits and destroys all of Seltkirk's armor on their
 retaliation hit.
+
+</div>
