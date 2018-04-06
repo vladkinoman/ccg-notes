@@ -1,5 +1,5 @@
 # gwent-notes
-**Description**: 
+## Description 
 
 Sometimes I find time to play Gwent and write a couple of notes on the material I studied. This repository stores information about concepts and mechanics of Gwent, which I learned on the streams, on reddit and in the game itself. Also you can find here analysis of cards, math proofs and tips concerning cards.
 
@@ -9,16 +9,14 @@ Short unofficial guide with starter decks for each faction on Reddit: [link](htt
 
 Video by ProperBird explains basic mechanics from the game and deckbuilding: [link](https://www.youtube.com/watch?v=aFQZ0MhLkU0&feature=share)
 
-Guide to Acronyms in GWENT Discussions on CDPR's forum:  [link](https://forums.cdprojektred.com/forum/en/gwent/tactician-s-corner/7659900-guide-to-acronyms-in-gwent-discussions-what-do-all-those-letters-mean) 
-You need to know this to talk with people on reddit and watch streams.
+Guide to Acronyms in GWENT Discussions on CDPR's forum:  [link](https://forums.cdprojektred.com/forum/en/gwent/tactician-s-corner/7659900-guide-to-acronyms-in-gwent-discussions-what-do-all-those-letters-mean). You need to know this to talk with people on reddit and watch streams.
 
 Meta snapshot from TopDeck: [link](http://topdeck.pro/gwent/meta-snapshot/)
 
 ## Deck treckers
 GwentUp deck tracker link: [link](https://gwentup.com/)
 
-Also there is a link to the meta report archive from GwentUp team: [link](https://gwentup.com/reports)
-You should see this to know your opponents and the best meta decks.
+Also there is a link to the meta report archive from GwentUp team: [link](https://gwentup.com/reports). You should see this to know your opponents and the best meta decks.
 
 
 ## Arena links
@@ -36,7 +34,7 @@ Gwent create refence: [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTN
 
 ## Calculators
 
-Hypergeometric calculator: [link](http://stattrek.com/online-calculator/)hypergeometric.aspx#faq
+Hypergeometric calculator: [link](http://stattrek.com/online-calculator/hypergeometric.aspx#faq)
 
 Overlap calculator: [link](https://jscalc.io/calc/XXJbvsNuHPUbtG8A)
 
