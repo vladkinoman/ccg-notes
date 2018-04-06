@@ -1,4 +1,8 @@
-# Links 
+# gwent-notes
+*Description*: 
+Sometimes I find time to play Gwent and write a couple of notes on the material I studied. This repository stores information about concepts and mechanics of Gwent, which I learned on the streams, on reddit and in the game itself. Also you can find here analysis of cards, math proofs and tips concerning cards.
+
+# Useful links 
 ## Guide links
 Short unofficial guide with starter decks for each faction on Reddit:  https://ft.reddit.com/r/gwent/comments/850qzb/new_to_gwent_unofficial_guide/
 
@@ -25,8 +29,22 @@ Cards pickers:
 Guide to positioning your units in Arena link: https://www.reddit.com/r/gwent/comments/807t08/guide_to_positioning_your_units_in_arena/
 
 
+## Create links :)
+
+Gwent create refence: https://docs.google.com/spreadsheets/d/e/2PACX-1vTNDbFUcuaWvK5Ammb1FHxI4G4YnbEKfpHKEmFWGTERFW2KUNJtHB1dW3FEExU0f0zVVKC39sy6gySZ/pubhtml#
+
 ## Calculators
 
 Hypergeometric calculator: http://stattrek.com/online-calculator/hypergeometric.aspx#faq
 
 Overlap calculator: https://jscalc.io/calc/XXJbvsNuHPUbtG8A
+
+## Other links
+
+Gwent sounds: https://soundcloud.com/gwentsounds/sets
+
+Gwent voicelines on different languages: https://gwent.seven7y.com/
+
+Gwent ALL premiums: https://www.youtube.com/watch?v=ihbjEEScbas&t=965s
+
+Unreleased Content: http://gwent.wikia.com/wiki/Unreleased_Content
