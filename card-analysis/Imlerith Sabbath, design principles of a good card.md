@@ -1,12 +1,10 @@
-<div style="float:left; margin-right:25px;">
-
 ![Imlerith](./images/sabbath.PNG)
 
-</div>  
-
-##TL;DR:
+# TL;DR
 
 Imlerith Sabbath is a fantastic card. His design employs 4 design principles that all lie under the scope of interactivity. Interactivity in card design is essential in Gwent because the objective of the game (put up more points than your opponent in 2 of 3 rounds) is not inherently interactive like other card games (where you must reduce your opponent’s life total to 0 to win).
+
+# Design principles
 
 ## Player Interactivity
 
