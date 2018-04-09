@@ -2,7 +2,7 @@
 
 **Definition**: mulligan bug is a bug (or a feature depends how you look at it) which makes it more likely to draw certain cards in **r2** and **r3** if you mulliganed them in **r1**.
 
-Devs told us that there is a no bug over there. So, "If everything is working properly and there are no bugs atm, what are the chances of redrawing these cards that I tossed away?". This is the question that people should be asking themselves. If they do the math and the times they redraw the cards they tossed away are found to reasonably or vastly exceed the expected statistic, then we can call it out and try to get attention of the devs.
+Devs told us that there is no bug there. So, "If everything is working properly and there are no bugs atm, what are the chances of redrawing these cards that I tossed away?". This is the question that people should be asking themselves. If they do the math and the times they redraw the cards they tossed away are found to reasonably or vastly exceed the expected statistic, then we can call it out and try to get attention of the devs.
 
 # Mulligan theory
 
