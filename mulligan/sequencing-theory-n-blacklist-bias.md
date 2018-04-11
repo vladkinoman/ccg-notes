@@ -18,7 +18,7 @@ Suppose you have 9 cards left in your deck, and mulligan a single Roach. The Roa
 - If Roach lands second from the top, then you will draw the top card to replace it, and Roach will once again be on top of your deck
 - If Roach lands anywhere else, it can not end up at the top of your deck after just one mulligan.
 
- 110 + 110 = 15 where (Roach on before 1 card) + (Roach between 1 and 2 card) = union because Roach will be on top even after drawing the first card
+> 1/10 + 1/10 = 15 where (Roach before 1 card) + (Roach between 1 and 2 card) = union because Roach will be on top even after drawing the first card
 
 Thus, there is a 20% chance that Roach will be on top of your deck (compared with 10% chance for any of the remaining 8 cards to be on top).
 
@@ -32,11 +32,10 @@ Suppose you are playing a deck of 25 unique cards, and you mulligan 3 cards (say
 - Total 46.7%
 
 ---
+<details>
+	<summary> Explanation </summary>
 
-**Explanation** 
-
-
-**20.6%**
+#### 20.6%
 
 Geralt is the top card if he is mulliganed into position 1,2,3 or 4 in your deck (before the replacement card is drawn), AND after that neither Roach nor Triss are placed above Geralt in the deck. If this occurs, all cards above Geralt will be drawn during the mulligan process and he will end up being the top card.
 
@@ -44,36 +43,78 @@ The probability that Geralt is mulliganed into position 1234 is 116=0.0625 for e
 
 For each of the above positions, calculate the probability that neither Roach nor Triss are ever mulliganed above geralt. This is 0.880.880.820.71. Or rather
 
-### Geralt ends up on top of the deck 
+##### First position #1/15
 
-We assume that Geralt is mulliganed before card 1.
+We assume that Geralt is mulliganed above card 1 ending up in position 1 out of 16 before the replacement card is drawn. Then the top card is drawn, and now Geralt is #1/15.
 
-1 - 1/16 - 1 * 15/16^2 = 0.88
+If **neither Triss nor roach are mulliganed in a position above Geralt**, then Geralt will end up being the top card of your deck after the mulligan. So we need to **find the probability that neither Triss nor Roach are mulliganed above Geralt**.
 
-Same for Geralt which was mulliganed between cards 1 and 2. 
+Roach is mulliganed second, and ends up above Geralt with a 1/16 chance.
 
-1 - 1/16 - 1 * 15/16^2 = 0.88
+Then, suppose that Roach is not placed above Geralt. The top card is drawn, and Geralt stays in position #1/15. Triss is now mulliganed, and the probability that she ends up above Geralt is 1/16. 
 
-### Geralt ends up on 
-1 - 2/16 - 1 * 14/16^2 =0.82
+So we have that the probability that neither Roach nor Triss ends up above Geralt is
 
-1 - 3/16 - 2 * 13/16^2 = 0.71
+> 1 - 1/16 - 1 * 15/16^2 = 0.88
+
+Same for Geralt which was mulliganed between cards 1 and 2 
+
+> 1 - 1/16 - 1 * 15/16^2 = 0.88
+
+##### Second position #2/15
+
+We assume that Geralt is mulliganed between cards 2 and 3 in your deck i.e. (то есть) ending up in position 3 out of 16 before the replacement card is drawn. Then, the top card is drawn, and now Geralt is #2/15.
+
+If **neither Triss nor roach are mulliganed in a position above Geralt**, then Geralt will end up being the top card of your deck after the mulligan, as cards in positions 1 and 3 will be drawn into your hand to replace Triss+Roach. So we need to **find the probability that neither Triss nor Roach are mulliganed above Geralt**.
+
+Roach is mulliganed second, and ends up above Geralt if he is placed above card 1, between cards 1 and 2 (card 2 is Geralt). So there is a 2/16 chance of Roach being placed above Geralt.
+
+Then, suppose that Roach is not placed above Geralt. The top card is drawn, and now Geralt is in position #1/15. Triss is now mulliganed, and the probability that she ends up above Geralt is 1/16. 
+
+So we have that the probability that neither Roach nor Triss ends up above Geralt is 
+
+> 1 - 2/16 - 1 * 14/16^2 =0.82
+
+##### Third position #3/15
+
+We assume that Geralt is mulliganed between cards 3 and 4 in your deck i.e. (то есть) ending up in position 4 out of 16 before the replacement card is drawn. Then, the top card is drawn, and now Geralt is #3/15.
+
+If **neither Triss nor roach are mulliganed in a position above Geralt**, then Geralt will end up being the top card of your deck after the mulligan, as cards in positions 1 and 2 will be drawn into your hand to replace Triss+Roach. So we need to **find the probability that neither Triss nor Roach are mulliganed above Geralt**.
+
+Roach is mulliganed second, and ends up above Geralt if he is placed above card 1, between cards 1 and 2 or between card 2 and card 3 (card 3 is Geralt). So there is a 3/16 chance of Roach being placed above Geralt.
+
+Then, suppose that Roach is not placed above Geralt. The top card is drawn, and now Geralt is in position #2/15. Triss is now mulliganed, and the probability that she ends up above Geralt is 2/16. 
+
+So we have that the probability that neither Roach nor Triss ends up above Geralt is 
+
+> 1 - 3/16 - 13/16 * 2/16 
+
+> (1 - Prob(Triss above Geralt) - Prob(Triss not above Geralt) * Prob(Roach above Geralt) )
+
+If we didn't include the *Prob(Triss not above Geralt)* term we would be double counting the situations where both are placed above Geralt
+
+The other numbers are similar, except there is a lower probability that Geralt is eclipsed since he is mulliganed into a higher position in the deck
+
+> 1 - 3/16 - 2 * 13/16^2 = 0.71
 
 Multiply the first probability by the second, and sum over all possible positions
 
- (1/16 * 0.88) + (1/16 * 0.88) + (1/16 * 0.82) + (1/16 + 0.71) = 20.6
+> (1/16 * 0.88) + (1/16 * 0.88) + (1/16 * 0.82) + (1/16 + 0.71) = 20.6
 
-**15.4%**
+#### 15.4%
 
 Roach is the top card of your deck if he is mulliganed into position 1,2 or 3 (before replacement) AND Geralt was not already in a position above it AND Triss is not placed in a position above it.
 
-(1/16 * 1 * 15/16) + (1/16 * 14/16 * 15/16) + (1/16 * 13/16 * 14/16) = 0.154
+> (1/16 * 1 * 15/16) + (1/16 * 14/16 * 15/16) + (1/16 * 13/16 * 14/16) = 0.154
 
-**10.7%**
+#### 10.7%
 
 Triss is the top card of your deck if she is mulliganed into position 1 or 2 (before replacement) AND Neither Geralt nor Roach were already in a position above her
 
- (1/16 * 1) + (1/16 * [1 - 3/16 - 13/16 * 2/16]) = 0.107
+> (1/16 * 1) + (1/16 * [1 - 3/16 - 13/16 * 2/16]) = 0.107
+
+</details>
+
 
 ---
 
