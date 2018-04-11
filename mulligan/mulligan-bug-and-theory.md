@@ -18,9 +18,15 @@ So let's see, what are the actual expected numbers here?
 
 **R2**
 
+On the first draw R2 the chances of drawing one of the "bad draws" is 3/16. So there is a **13/16** chance that I do **NOT** draw any of the "bad" cards.
+
 First *draw*: 13/16.
 
+On the second draw, if I have not drawn a "bad card" yet, the chance to draw one of the bad cards is now 3/15. On this draw I have a **12/15** chance of **NOT** drawing a bad card.
+
 Second *draw*: 12/15.
+
+Then I can choose to mulligan a card or not. If I choose to mulligan, and I have not drawn one of the three cards I tossed away in R1 yet, I will have a 3/14 chance to draw one of them here. Additionally, on this draw I have a **11/14** chance of **NOT** drawing one of the three bad cards.
 
 *Draw* after mulligan (if we tossed a card): 11/14.
 
@@ -32,7 +38,7 @@ The chances of not redrawing at least one of the "dead cards" is 65%. Which mean
 
 All round 2 with mulligan: 13/16 * 12/15 * 11/14 = 51%.
 
-Or, 49% chance that if we use our mulligan that we now have at least one of the three cards tossed away R1 in our hand.
+If we use our mulligan R2 this chance gets higher. The numbers come out to be (13/16)*(12/15)*(11/14) which is 51%. Or, 49% chance that if we use our mulligan that we now have at least one of the three cards tossed away R1 in our hand.
 
 > 49% chance to redraw at least one of the three tossed cards come R2 if we use our R2 mulligan.
 
