@@ -118,12 +118,54 @@ Triss is the top card of your deck if she is mulliganed into position 1 or 2 (be
 
 ---
 
-To compare, the probability of drawing Geralt, Roach or Triss Merigold from the top of a shuffled deck is a combined 20%. Furthermore, suppose, like in the ‘Horsing Around’ example above, only Geralt was mulliganed. Then the probability of him being at the top of your deck would be 216=12.5%. So mulliganing more cards after him actually increased the chance of Geralt rising to the top.
+To compare, the probability of drawing Geralt, Roach or Triss Merigold from the top of a shuffled deck is a combined 20%. Furthermore, suppose, like in the ‘Horsing Around’ example above, only Geralt was mulliganed. Then the probability of him being at the top of your deck would be 2/16=12.5%. **So mulliganing more cards after him actually increased the chance of Geralt rising to the top**.
 
 Importantly, this is a lower bound. If we relax the assumption that mulliganed cards are unique, then the probability of drawing a copy of a mulliganed card would be even higher. Thus, if you are playing a 25 card deck and mulligan 3 cards at the start of the game the probability of one of them being on top of is always at least 46.7%
+
+## Example: Foglet Fiasco
+
+Suppose you are playing a deck that runs 3 Foglets, you draw one in your opening hand, get rid of it first and then mulligan two other cards (which I will assume to be unique, or rather, not blacklisting any cards other than themselves, for the purposes of this example). The probability that there is now a Foglet on top of your deck is 50.6%.
+
+A more detailed explanation follows, but this probability is almost equivalent to the chance that there is at least one Foglet in the top 4 cards of your deck after the first Foglet is mulliganed, but before the replacement card is drawn. At this point there are 16 cards in your deck, and thus this probability equals to 60.7%. The top 3 non-blacklisted cards of your deck are drawn into your hand during the mulligan process, which in the situation described would push the Foglet to the top, unless one of the other mulliganed cards is placed on top of it (this is accounted for by the ~10% difference between the numbers).
+
+As a point of comparison: the probability that one of 3 specific cards is on top of a shuffled deck of 15 is 20%, so the impact of the lack of shuffling at the end of the mulligan algorithm is rather significant.
+
+It is worth noting that relaxing the assumption that the cards mulliganed second and third do not add any other cards in your deck to the blacklist would make the probability of a Foglet being on top slightly lower, depending on how many cards are blacklisted during those mulligans. In the ‘worst case’ scenario (your last two mulligans blacklist 3 cards each), the probability of a Foglet being on top drops by around 5%.
+
+<details>
+	<summary>Explanation</summary>
+
+#### 60.7%
+
+This probability that there are no Foglets in the top 4 cards of a randomised 16 card deck is: 12C3/16C3 = 11/28. Thus, the probability that there is at least one Foglet in the top 4 cards is 1-11/28=17/28.
+
+#### 50.6% 
+
+A Foglet ends up being the top card of your deck if the topmost Foglet of your deck is in position 1,2,3 or 4 in your deck (after the first mulligan, but before the replacement card is drawn) AND Your second and third mulliganed cards are not placed above the Foglet.
+
+The probability that the topmost Foglet in your deck is in position 1/2/3/4 is 0.1875/0.1625/0.1393/0.1179. (Calculated by considering the number of ways to arrange cards in your deck to satisfy the conditions outlined, divided by the total number of arrangements).
+
+For each of those positions, the probability that your second or third mulligan lands above the topmost Foglet is exactly the same as with Geralt in the previous example, 0.88/0.88/0.82/0.71.
+
+Multiply and sum to obtain the result.
+
+</details>
 
 ## To Summarise
 
 Blacklist Bias Mulliganed cards are more likely to end up higher in your deck. This also applies to copies of mulliganed cards that started off in your deck (e.g. foglets).
 
 Generally, the more mulligans are performed in a given sitting, the more likely it is that one of the blacklisted cards ends up on top of your deck.
+
+
+# Using this information
+
+It is even more important to conduct your thinning as early as possible, so that the quality of your draws at the start of rounds 2 and 3 is maximised. Likewise[также], draw effects are not as good as you would expect, as they are more likely to draw you cards that you have mulliganed away, which are usually the worst cards in your deck. This is another reason why draw effects should be combined with plentiful thinning in order to be effective. On the other hand, offensive draw effects, like Avallac'h and Albrich, are quite likely to undo your opponent's hopes, dreams and mulligans if they are running a lot of undesirable cards like Foglets and Crones.
+
+Effects that “shuffle” (in reality, they “randomly place”) cards back into your deck, like Emissary and Thaler, can help clear up the blacklist blockage. It is important to note, however, that they are very much impacted by it too (i.e.[то есть] an Emissary giving you the option between two bronzes you mulliganed). Complete deck shuffling (with Stefan Skellen, King Bran or Dandelion) is even better for this.
+
+As we saw in the second example, the earlier you mulligan a card in the initial mulligan, the more likely it is to end up higher in your deck. This means:
+
+- Mulligan earlier: Cards that won’t affect your future draws, usually because you’re planning to thin them from your deck early. Examples: Foglet, Imperial Golem, Roach. However, as discussed in the previous article, it is also important to blacklist early.
+
+- Mulligan later: Cards that you want to draw least, such as ones that are ineffective in a specific matchup. Examples: Mardroeme, Lacerate, Blue Stripes Scout.
