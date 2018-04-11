@@ -128,9 +128,7 @@ Suppose you are playing a deck that runs 3 Foglets, you draw one in your opening
 
 A more detailed explanation follows, but this probability is almost equivalent to the chance that there is at least one Foglet in the top 4 cards of your deck after the first Foglet is mulliganed, but before the replacement card is drawn. At this point there are 16 cards in your deck, and thus this probability equals to 60.7%. The top 3 non-blacklisted cards of your deck are drawn into your hand during the mulligan process, which in the situation described would push the Foglet to the top, unless one of the other mulliganed cards is placed on top of it (this is accounted for by the ~10% difference between the numbers).
 
-As a point of comparison: the probability that one of 3 specific cards is on top of a shuffled deck of 15 is 20%, so the impact of the lack of shuffling at the end of the mulligan algorithm is rather significant.
-
-It is worth noting that relaxing the assumption that the cards mulliganed second and third do not add any other cards in your deck to the blacklist would make the probability of a Foglet being on top slightly lower, depending on how many cards are blacklisted during those mulligans. In the ‘worst case’ scenario (your last two mulligans blacklist 3 cards each), the probability of a Foglet being on top drops by around 5%.
+---
 
 <details>
 	<summary>Explanation</summary>
@@ -150,6 +148,12 @@ For each of those positions, the probability that your second or third mulligan 
 Multiply and sum to obtain the result.
 
 </details>
+
+---
+
+As a point of comparison: the probability that one of 3 specific cards is on top of a shuffled deck of 15 is 20%, so the impact of the lack of shuffling at the end of the mulligan algorithm is rather significant.
+
+It is worth noting that relaxing the assumption that the cards mulliganed second and third do not add any other cards in your deck to the blacklist would make the probability of a Foglet being on top slightly lower, depending on how many cards are blacklisted during those mulligans. In the ‘worst case’ scenario (your last two mulligans blacklist 3 cards each), the probability of a Foglet being on top drops by around 5%.
 
 ## To Summarise
 
