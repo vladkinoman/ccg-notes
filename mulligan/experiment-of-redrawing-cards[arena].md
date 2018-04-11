@@ -59,3 +59,7 @@ Both R2 & R3 without mulligan: 13/16 * 12/15 * 11/14 = 51%.
 R2 & R3 with mulliganed cards: 13/16 * 12/15 * 11/14 * 10/14 * 9/13 = 25.25% -- that's 74.75% that at least one tossed card will have shown up by now.
 
 > 74.75% chance to redraw at least one of the three tossed cards come R3 (after mulligan R2) if we use our R3 mulligan.
+
+# Conclusion
+
+So what's the lesson here? Draft the least number of dead cards as possible or find a way to thin them out of your deck ASAP (i.e. roach) if you have more than a couple that you desperately cannot afford to redraw. Because as far as the numbers go, the tossed cards WILL show back up often enough to be a little bit annoying. And this is even without any sort of blacklisting mechanic that might end up orienting a greater mass of bad cards / dead cards toward the top of your deck.
