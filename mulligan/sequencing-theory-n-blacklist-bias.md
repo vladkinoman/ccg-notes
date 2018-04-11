@@ -31,9 +31,12 @@ Suppose you are playing a deck of 25 unique cards, and you mulligan 3 cards (say
 - Triss Merigold 10.7%
 - Total 46.7%
 
----------------------  Explanation  ---------------------------
+---
 
-20.6%.
+**Explanation** 
+
+
+**20.6%**
 
 Geralt is the top card if he is mulliganed into position 1,2,3 or 4 in your deck (before the replacement card is drawn), AND after that neither Roach nor Triss are placed above Geralt in the deck. If this occurs, all cards above Geralt will be drawn during the mulligan process and he will end up being the top card.
 
@@ -45,35 +48,34 @@ For each of the above positions, calculate the probability that neither Roach no
 
 We assume that Geralt is mulliganed before card 1.
 
-
-
-1-116-1  1516^2=0.88
+1 - 1/16 - 1 * 15/16^2 = 0.88
 
 Same for Geralt which was mulliganed between cards 1 and 2. 
 
-1-116-1  1516^2=0.88
+1 - 1/16 - 1 * 15/16^2 = 0.88
 
 ### Geralt ends up on 
-1-216-1  1416^2=0.82
+1 - 2/16 - 1 * 14/16^2 =0.82
 
-1-316-2  1316^2=0.71
+1 - 3/16 - 2 * 13/16^2 = 0.71
 
 Multiply the first probability by the second, and sum over all possible positions
 
- (116  0.88) + (116  0.88) + (116  0.82) + (116 + 0.71) = 20.6
+ (1/16 * 0.88) + (1/16 * 0.88) + (1/16 * 0.82) + (1/16 + 0.71) = 20.6
 
-15.4%
+**15.4%**
 
 Roach is the top card of your deck if he is mulliganed into position 1,2 or 3 (before replacement) AND Geralt was not already in a position above it AND Triss is not placed in a position above it.
 
- (116  1  1516) + (116  1416  1516) + (116  1316  1416) = 0.154
+(1/16 * 1 * 15/16) + (1/16 * 14/16 * 15/16) + (1/16 * 13/16 * 14/16) = 0.154
 
-10.7%
+**10.7%**
 
 Triss is the top card of your deck if she is mulliganed into position 1 or 2 (before replacement) AND Neither Geralt nor Roach were already in a position above her
- (116  1) + (116  [1-316-1316  216]) = 0.107
 
----------------------------------------------------------------------
+ (1/16 * 1) + (1/16 * [1 - 3/16 - 13/16 * 2/16]) = 0.107
+
+---
 
 To compare, the probability of drawing Geralt, Roach or Triss Merigold from the top of a shuffled deck is a combined 20%. Furthermore, suppose, like in the ‘Horsing Around’ example above, only Geralt was mulliganed. Then the probability of him being at the top of your deck would be 216=12.5%. So mulliganing more cards after him actually increased the chance of Geralt rising to the top.
 
