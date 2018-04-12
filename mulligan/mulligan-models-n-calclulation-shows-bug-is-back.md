@@ -57,7 +57,7 @@ In conventional decks containing duplicates, both blacklisting bias and mulligan
 
 ## Math
 
-The expected/average number of mulliganed cards ending up in the top three spots of a deck can be estimated by running a simulation millions of times, or calculated directly. 
+The expected/average number of mulliganed cards ending up in the top three spots of a deck can be estimated by running a simulation millions of times, or calculated directly. There is a [thread on Reddit](https://www.reddit.com/r/gwent/comments/83eq8s/testing_of_mulligan_in_singleton_deck/) where other users find matching values using both approaches. The same thread also contains the sources of the data points, as well as some more in-depth math omitted here.
 
 ## Results
 
