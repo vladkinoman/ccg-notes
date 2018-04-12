@@ -16,7 +16,7 @@ Guide to Acronyms in GWENT Discussions on CDPR's forum:  [link](https://forums.c
 Meta snapshot from TopDeck: [link](http://topdeck.pro/gwent/meta-snapshot/)
 
 ## Deck treckers
-GwentUp deck tracker link: [link](https://gwentup.com/)
+GwentUp deck tracker: [link](https://gwentup.com/)
 
 Also there is a link to the meta report archive from GwentUp team: [link](https://gwentup.com/reports). You should see this to know your opponents and the best meta decks.
 
@@ -27,7 +27,7 @@ Cards pickers:
 - from TopDeck: [link](https://topdeck.pro/gwent/arena-picker/)
 - from team Aretuza: [link](https://teamaretuza.com/arena/)
 
-Guide to positioning your units in Arena link: [link](https://www.reddit.com/r/gwent/comments/807t08/guide_to_positioning_your_units_in_arena/)
+Guide to positioning your units in Arena: [link](https://www.reddit.com/r/gwent/comments/807t08/guide_to_positioning_your_units_in_arena/)
 
 
 ## Create links :)
