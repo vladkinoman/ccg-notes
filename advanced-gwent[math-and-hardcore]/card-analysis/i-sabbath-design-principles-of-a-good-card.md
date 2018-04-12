@@ -1,4 +1,4 @@
-![Imlerith](../images/cards/sabbath.PNG)
+![Imlerith](../../images/cards/sabbath.PNG)
 
 # TL;DR
 

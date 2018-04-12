@@ -2,7 +2,7 @@
 
 ## Shupe's cheat sheet
 
-![shupe](../images/cheat-sheets/shupe.jpg)
+![shupe](../../images/cheat-sheets/shupe.jpg)
 
 ## Quick maffs
 

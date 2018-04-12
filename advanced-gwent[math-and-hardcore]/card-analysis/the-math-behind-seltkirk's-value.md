@@ -1,6 +1,6 @@
 <div style="float:left; margin-right:25px;">
 
-![Seltkirk of Gulet](../images/cards/seltkirk.PNG)
+![Seltkirk of Gulet](../../images/cards/seltkirk.PNG)
 
 </div>  
 
