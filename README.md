@@ -1,4 +1,4 @@
-<img src="./images/triss_telekinesis.jpg" width="150px">
+<img src="./images/triss_telekinesis.jpg" width="50%">
 
 # gwent-notes
 ## Description 
