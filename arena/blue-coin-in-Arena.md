@@ -1,8 +1,8 @@
-this article was copied and edited from the [Team Aretuza website](https://teamaretuza.com/homepage/article/blue-coin-in-arena-drypass-or-not-MhEN)
+*this article was copied and edited from the [Team Aretuza website](https://teamaretuza.com/homepage/article/blue-coin-in-arena-drypass-or-not-MhEN)*
 
 # Blue coin in Arena
 
-##Drypassing on Blue Coin: Why?
+## Drypassing on Blue Coin: Why?
 
 In constructed Gwent, blue coin is one of the last things that you would like to see at the start of the game. However, I have good news for Arena players: it is not that bad and it can be even advantageous.
 
