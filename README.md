@@ -1,3 +1,5 @@
+![Triss: Telekinesis](./images/triss_telekinesis.jpg)
+
 # gwent-notes
 ## Description 
 
