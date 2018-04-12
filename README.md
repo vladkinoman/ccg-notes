@@ -1,4 +1,4 @@
-![Triss: Telekinesis](./images/triss_telekinesis.jpg)
+<img src="./images/triss_telekinesis.jpg" style="width:auto; height: 50%;">
 
 # gwent-notes
 ## Description 
