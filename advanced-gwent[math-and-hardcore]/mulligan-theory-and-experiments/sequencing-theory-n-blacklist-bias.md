@@ -39,9 +39,9 @@ Suppose you are playing a deck of 25 unique cards, and you mulligan 3 cards (say
 
 Geralt is the top card if he is mulliganed into position 1,2,3 or 4 in your deck (before the replacement card is drawn), AND after that neither Roach nor Triss are placed above Geralt in the deck. If this occurs, all cards above Geralt will be drawn during the mulligan process and he will end up being the top card.
 
-The probability that Geralt is mulliganed into position 1234 is 116=0.0625 for every position.
+The probability that Geralt is mulliganed into position 1/2/3/4 is 1/16=0.0625 for every position.
 
-For each of the above positions, calculate the probability that neither Roach nor Triss are ever mulliganed above geralt. This is 0.880.880.820.71. Or rather
+For each of the above positions, calculate the probability that neither Roach nor Triss are ever mulliganed above geralt. This is 0.88/0.88/0.82/0.71. Or rather:
 
 ##### First position #1/15
 
@@ -135,7 +135,7 @@ A more detailed explanation follows, but this probability is almost equivalent t
 
 #### 60.7%
 
-This probability that there are no Foglets in the top 4 cards of a randomised 16 card deck is: 12C3/16C3 = 11/28. Thus, the probability that there is at least one Foglet in the top 4 cards is 1-11/28=17/28.
+This probability that there are no Foglets in the top 4 cards of a randomised 16 card deck is: C^3_12/C^3_16 = 11/28 (combinations). Thus, the probability that there is at least one Foglet in the top 4 cards is 1-11/28=17/28.
 
 #### 50.6% 
 
@@ -157,7 +157,7 @@ It is worth noting that relaxing the assumption that the cards mulliganed second
 
 ## To Summarise
 
-Blacklist Bias Mulliganed cards are more likely to end up higher in your deck. This also applies to copies of mulliganed cards that started off in your deck (e.g. foglets).
+Blacklist Bias: Mulliganed cards are more likely to end up higher in your deck. This also applies to copies of mulliganed cards that started off in your deck (e.g. foglets).
 
 Generally, the more mulligans are performed in a given sitting, the more likely it is that one of the blacklisted cards ends up on top of your deck.
 
