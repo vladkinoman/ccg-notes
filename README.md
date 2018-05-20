@@ -13,7 +13,9 @@ Video by ProperBird explains basic mechanics from the game and deckbuilding: [li
 
 Guide to Acronyms in GWENT Discussions on CDPR's forum:  [link](https://forums.cdprojektred.com/forum/en/gwent/tactician-s-corner/7659900-guide-to-acronyms-in-gwent-discussions-what-do-all-those-letters-mean). You need to know this to talk with people on reddit and watch streams.
 
-Meta snapshot from TopDeck: [link](http://topdeck.pro/gwent/meta-snapshot/)
+~~Meta snapshot from TopDeck: [link](http://topdeck.pro/gwent/meta-snapshot/)~~ TopDeck is dead. FeelsBadMan
+
+Meta snapshot from Team Aretuza (april): [link](https://teamaretuza.com/homepage/article/meta-snapshot-1-TSNa)
 
 ## Deck treckers
 GwentUp deck tracker: [link](https://gwentup.com/)
@@ -24,7 +26,7 @@ Also there is a link to the meta report archive from GwentUp team: [link](https:
 ## Arena links
 
 Cards pickers:
-- from TopDeck: [link](https://topdeck.pro/gwent/arena-picker/)
+~~- from TopDeck: [link](https://topdeck.pro/gwent/arena-picker/) ~~ TopDeck is dead. FeelsBadMan
 - from team Aretuza: [link](https://teamaretuza.com/arena/)
 
 Guide to positioning your units in Arena: [link](https://www.reddit.com/r/gwent/comments/807t08/guide_to_positioning_your_units_in_arena/)
