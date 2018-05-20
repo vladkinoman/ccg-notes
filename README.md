@@ -26,7 +26,8 @@ Also there is a link to the meta report archive from GwentUp team: [link](https:
 ## Arena links
 
 Cards pickers:
-~~From TopDeck: [link](https://topdeck.pro/gwent/arena-picker/) ~~ TopDeck is dead. FeelsBadMan
+
+~~From TopDeck: [link](https://topdeck.pro/gwent/arena-picker/)~~ TopDeck is dead. FeelsBadMan
 
 From team Aretuza: [link](https://teamaretuza.com/arena/)
 
