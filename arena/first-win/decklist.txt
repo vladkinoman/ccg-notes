@@ -1,0 +1,65 @@
+Decklist
+
+Leader: Broover Hoog 26 cards
+
+Golds:
+
+x1 Old Speartip          - 15p
+
+x1 Shupe                 - 13p
+
+x1 Royal Decree          - 12p
+
+x1 Primordial D'ao       - 11p
+
+x1 Villentretenmerth     - 11p
+
+x1 Geralt: Yrden         - 11p
+
+x1 Kambi                 - 10p
+
+x1 Kiyan                 - 10p - bad
+
+x1 Regis: Higher Vampire - 10p - bad
+
+x1 Aguara                - 9p
+
+x1 Serrit                - 9p
+
+x1 Milaen                - 9p
+
+x1 Xavier Moran          - 9p  - bad
+
+x1 Myrgtabrakke          - 8p  - bad
+
+x1 Holger Blackhand      - 8p  - bad
+
+x1 Ceallach Dyffryn      - 7p
+
+x1 Nithral               - 6p
+
+x1 Alpha Werewolf        - 5p
+
+_sum: 18 cards 
+
+Bronzes:
+
+x1 Nilfgaardian Knight   - 5p  - bad
+
+x1 Hawker Support        - 5p  - bad
+                               
+x1 Nauzicaa Brigade      - 5p  - bad
+
+x1 Savage Bear           - 5p  - bad
+
+x1 Reinforced Trebuchet  - 5p
+
+x1 Rot Tosser            - 5p
+
+x1 Nekker Warrior        - 4p
+
+x1 Magne Division        - 4p
+
+_sum : 8 cards
+
+__total sum: 26 cards (not including leader card)
