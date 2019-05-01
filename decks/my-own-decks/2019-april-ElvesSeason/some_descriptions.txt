@@ -1,0 +1,37 @@
+== Bon Appetit ==
+
+Description: 
+ This is the most competetive deck I created during this month 
+ and reached rank 7 in a short time.
+
+Strategy:
+ Round 1: you need to win round 1 in order to secure the last say (Glustyworp or
+  Kayran). There are 3 key cards in this deck that would help you to win 
+  round 1 but do not commit all cards:
+  - Detlaff: Higher Vampire
+  - Ruehin
+  - Frightener: Dormant
+  So you need to consume some cards to get more values.
+ Round 2: dry pass or if you think you can destroy your opponent in 3-4 cards - do it.
+ Round 3: consume units. It would be nice if you play all cards above. Your last
+ say is Glustyworp.  
+
+== Thicc finisher ==
+
+Description:
+ This deck is a classic binary deck which supports challenge "You pass - you lose" :)
+ Also this deck has the best finisher in the game. You could get 50 points in one card
+ and complete contract "Bodybuilder" :)
+
+Strategy:
+ Round 1: you need to win round 1 in order to secure last say (Dana->Aglais after Syanna) and 
+  bait as many removal/locks as you can with your engines (Swordmaster, Pavko Gale, Boar).
+  Also those engines should bait your opponnent to pass. Mulligan Aglais before the round
+ Round 2: dry pass!
+ Round 3: play your cards. Try to save Thunderbolt for Avallach or Syanna. Your last 3
+ cards should be: 
+  - Avallach - if he dies or locks, it's okay.
+  - Syanna - Use Avallach to give immune for Syanna
+  - use Dana to pull Aglais and use Garrison (or Swallow) on her. 
+ And you would get 40-50 points finisher.  
+ 
