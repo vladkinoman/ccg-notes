@@ -1,0 +1,18 @@
+== Classic Machines ==
+
+Description: 
+ This is the most competetive deck I created during this month 
+ and reached Pro rank from rank 7. I played 93 matches and won 60. So I have 64.52% WR. I have to say that my wins on Blue coin equals wins on red - 30/30. Henselt is the only leader in a game who has advantage in going first in second/third round where he can set up his engines before opponent.
+
+Key cards:
+ Arbalests       -> You should play Henselt with your arbalests 
+ Scorch          -> Great card against point-slam decks if you have last say. I wouldn't recommend to spend it in round 1.
+ Foltest's Pride -> Great card against swarm decks such as NG Soldiers. You should consider to play Henselt with Cintrian Envoys in order to give more charges to FP. 
+
+Strategy:
+ 
+ Round 1: you need to win round 1 to not give your opponnent chance to bleed you in round 2. Also sometimes depending on the matchup you have to secure last say in order to destroy your opponnent using Scorch (Svalblod matchups). Save your arbalests for round 3! 
+ 
+ Round 2: dry pass or if you think you can destroy your opponent in 3-4 cards - do it. If you won round 1 against paper decks (Demavend, Burst Henselt etc.) it is better to play your Henselt with arbalests and destroy opponnent in 3 cards in round 2.
+ 
+ Round 3: sometimes it is great to go first in round 3 and set up your engines before your opponent. If you secured last say then you should set up your Scorch as the final play. Be careful with Villentretenmerth. Maybe it is better to choose only one card.
