@@ -33,8 +33,6 @@ Shinmiri - [twitch](https://www.twitch.tv/shinmiri2)
 
 SirPumpkn - [twitch](https://www.twitch.tv/sirpumpkn), [youtube](https://www.youtube.com/channel/UCvn-fnidHmMVhxwtc3utejA)
 
-Swim - [twitch](https://www.twitch.tv/swimstrim), [youtube](https://www.youtube.com/channel/UC6PJu-F2FvReSw5EM783Jew)
-
 ## Deck builders and netdecks
 
 GwentUp decks and deck builder: [link](https://gwentup.com/)
