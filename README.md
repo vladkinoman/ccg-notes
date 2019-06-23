@@ -25,6 +25,13 @@ Meta snapshot from Team Aretuza & Team Nova: [link](https://teamaretuza.com/meta
 
 Meta snapshot from Team Leviathan Gaming: [link](http://teamleviathangaming.com/meta/)
 
+## My favorite players/streamers/content creators
+
+FreddyBabes - [twitch](https://www.twitch.tv/freddybabes/), [youtube](https://www.youtube.com/channel/UCuI2taB-tDeKLYDK9nfT4sw)
+
+Shinmiri - [twitch](https://www.twitch.tv/shinmiri2)
+
+SirPumpkn - [twitch](https://www.twitch.tv/sirpumpkn), [youtube](https://www.youtube.com/channel/UCvn-fnidHmMVhxwtc3utejA)
 
 ## Deck builders and netdecks
 
