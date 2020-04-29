@@ -60,3 +60,9 @@ Unreleased Content: [link](http://gwent.wikia.com/wiki/Unreleased_Content)
 ## Magic the Gathering: Arena
 
 <img src="./_images/MTG_Arena_Lilian_1920x1200.jpg" width="70%">
+
+### Useful links
+
+#### Academy
+
+Everything: [link](https://modernnexus.com/).
