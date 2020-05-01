@@ -1,6 +1,7 @@
 == Midrange Dj's Band No Specials ==
 
-Description: 
+Description:
+ 
  This is the only deck I created during this month 
  and reached rank 17 from rank 30. Winrate ~ 60%.  
 
@@ -19,3 +20,32 @@ Possible replacements:
  Imke -> Knickers (just for fun and >random< thinning)
  Philippa -> Savolla (you need Imke)
 
+== Experimental Aggro Weather ==
+
+Description:
+
+ I tried to combine two uncombinable things in Gwent: Big Boys deck which likes a short round, and Weather deck which likes long round.
+ Reasons: 
+  - rounds in the new Gwent aren't that short. A lot of rounds last 5-10 cards. 
+  - Big Boys (or Big Leshiy) archetype aren't that strong because CDPR nerfed ghouls.
+ So, I tried to make a competetive deck which combines these two archetypes (Weather isn't really an archetype, more like relic from the past :()
+ This deck can't win the first round without using big value cards. However, if you have last say and middle round, you will probably win the game with Armor, Yghern, Ozzrel, Caldwell.
+ Plus, this deck might not win the long round with weather cause weather is still weak against swarm decks.
+
+Key cards: Ragn Nar Roog, Living Armor, Yghern, Caldwell, Ozzrel.
+
+Strategy:
+
+ Round 1: play low tempo, use noninteractive cards and frost (Avallach into Fog if necessary). If they play swarm then use trolls.
+
+ Round 2: depending on the matchup: if they want long round, then bleed them out; if they want short round, dry pass. You can play Troubadours on your Yghern (high priority) or on your Living Armor (low priority). 
+
+ Round 3: Play Ragn Nar Roog as your second card (choose row wisely), play other cards. Your finishers are other key cards.
+
+Possible replacements:
+ Golyat -> Ciri (it is better to use her in the first round, but I don't think she will be in your starting hand :D)
+ Golyat -> Old Speartip + Ice Giant -> Nekker Warrior.
+
+# I think this is my last Gwent deck. I really tired of this game: the decks are the same, control isn't really annoying anymore, 
+# but Gwent is a boring game after beta. Many interesting mechanics have been lost, combo decks do not play as before. 
+# Now there are only Aggro decks around and sometimes control comes back.
