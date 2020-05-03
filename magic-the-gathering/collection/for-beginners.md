@@ -96,8 +96,52 @@ In terms of deck-building, the general consensus is to buy *commander precons de
 
 The Game Night box is great **investment for absolute beginners** who want to involve their friends in the game. Although, it provides too standard and simple gameplay.
 
+## Is it good to start from Duel Decks?
+
+### First answer
+
+Honestly, skip them. The mechanics are far too advanced for learning straight away. Lastly the cheap one is badly balanced so one deck is always straight stomping the other making it really unfun to play with a friend.
+
+A planeswalker deck is about $12-19 for one. Get one for you and another PW for your SO (Dominaria just released chandra and teferi decks for example). The mechanics are more straightforward, and hold just as much play value which is to say they aren't made for playing against other decks except each other.
+
+If you want a FREE taste of magic, call around local game stores and explain youre new and if they have any Welcome decks. Wizards gives LGS' these welcome decks to hand out for FREE to new players (dont get scammed into paying $5 for them).
+
+### Second answer
+
+Honestly, I would recommend in order:
+
+1. Card Kingdom [Rookie or Battle Decks](https://www.cardkingdom.com/static/specialties). Well balanced against each other, and a great starting point.
+2. Of the Duel Decks, **Izzet vs. Golgari** or Elspeth vs. Kiora are fairly balanced but a lot more complex in game play than the CK decks.
+3. The Challenger decks. Powered down versions of great standard decks, they are balanced against each other and easy to learn the game with.
+
+After those, when you start getting the hang of things, I would say go for Commander Precons, to a Prerelease, or get some packs to do some sealed with.
+
+### Third answer
+
+All of those Duel Decks are at least a dynamic experience. I would rank them as follows:
+
+1. *Izzet vs. Golgari*
+2. *Elspeth vs. Kiora*
+3. *Mind vs. Might*
+
+*Izzet vs. Golgari* is one of the best of all the Duel Decks series. Each deck has a game plan but tools to adapt to new scenarios or to interact with the opponent's strategy. The Izzet deck is a Blue-Red control deck with powerful noncreature spells, utility creatures, and some evasive threats. The Golgari deck is a Black-Green graveyard recursion deck that builds momentum with growing inevitable threats. Both decks are complex and give the players many options. The mechanics are simple on the surface but create good depth. The Golgari deck is probably a bit harder to pilot, especially for new players who might not intuitively treat the graveyard as a resource.
+
+*Elspeth vs. Kiora* is a personal favorite of mine. Like Izzet vs. Golgari, each of these decks has a distinct gameplan and some ability to adapt if the initial plan fails. The Elspeth deck is a classic White weenie aggro deck, but Elspeth, Captain of the Watch, and Dictate of Heliod give the deck some late game staying power if Kiora successfully stalls the early game. The Kiora deck is a Blue-Green ramp ramp deck with large, impactful creatures, but it also has some early game utility creatures that can create positive tempo plays or at least leave chump blockers before the big creatures come down. The Elspeth deck is a little more straightforward than the Kiora deck, but there are some tricks in both decks that keep the match up interesting.
+
+> Elspeth VS Kiora is one of the best. Both decks run midrange strategies, Elspeth focusing on going wide with Soldier tokens/tribal, and Kiora going tall, ramping to huge monsters. The games are incredibly swingy, and the decks are greatly balanced against each other. I bought mine when it was new, so I don't know the prices these days.
+
+> One note: Mixing and matching duel decks can be fun, but they're designed specifically to face their paired mate. I might suggest the new Planeswalker decks. They're standalone, single decks, and they're quite well-designed, strong, and fun!
+
+> Mind vs. Might is probably the worse to present to newish players, Mind is a ridiculously powerful (for what you would expect) Combo deck. I used it to reintroduce someone to the game and quickly regretted it. Not before Storming of with Mind's Desire though.
+
+### Conclusion
+
+Honestly, skip Duel Decks. The mechanics are far too advanced for learning straight away. However, if you want to learn then you should buy *Izzet vs. Golgari* or *Elspeth vs. Kiora*. *Mind vs. Might* is also good. After the Duel Decks, you can buy The Challenger deck that are powered down versions of great standard decks, they are balanced against each other and easy to learn the game with. After those, when you start getting the hang of things, I would say go for Commander Precons, to a Prerelease, or get some packs to do some sealed with.
+
 ## References
 
 1. https://www.reddit.com/r/MagicArena/comments/g6v2vs/best_packs_to_buy_from_zero_collection/
 2. https://www.reddit.com/r/magicTCG/comments/cc1hyl/help_getting_into_magic_with_core_set_2020/?sort=top
 3. https://www.reddit.com/r/magicTCG/comments/cnpeyq/commander_2019_good_as_a_starting_point_for_new/
+4. https://www.reddit.com/r/magicTCG/comments/8he6nq/trying_to_start_magic_with_so_need_advice_on_duel/?sort=top
+5. https://www.reddit.com/r/magicTCG/comments/632izz/duel_deck_enthusiasts_which_sets_do_you_recommend/
