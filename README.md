@@ -7,8 +7,14 @@ Sometimes I find time to play CCGs and write a couple of notes on the material I
 
 ## Table of Contents
 
+- [Artifact](#Artifact) - Valve, when? :)
 - [Gwent](#Gwent) - retired.
+- [Legends of Runeterra](#Legends-of-Runeterra) - ?
 - [Magic: The Gathering](#Magic:-The-Gathering)
+
+## Artifact
+
+
 
 ## Gwent
 
@@ -62,6 +68,10 @@ Gwent sounds: [link](https://soundcloud.com/gwentsounds/sets)
 
 Unreleased Content: [link](http://gwent.wikia.com/wiki/Unreleased_Content)
 
+## Legends of Runeterra
+
+
+
 ## Magic: The Gathering
 
 <img src="./_images/MTG_Arena_Lilian_1920x1200.jpg" width="70%">
@@ -82,7 +92,7 @@ Unreleased Content: [link](http://gwent.wikia.com/wiki/Unreleased_Content)
 
 Everything: [link](https://modernnexus.com/).
 
-#### Cards, lore and prices
+#### Cards, lore, prices
 
 [Scryfall](https://scryfall.com/advanced) for searching for cards and information about cards.
 
@@ -93,6 +103,8 @@ Everything: [link](https://modernnexus.com/).
 [What Should MTG Beginners Buy](https://cardgamebase.com/what-to-buy-for-mtg-beginner/).
 
 [TCGPlayer](https://www.tcgplayer.com/) is a good place to find the prices of cards.
+
+For all your magic needs in Europe - [cardmarket](https://www.cardmarket.com/de/Magic).
 
 [Goldfish](https://www.mtggoldfish.com/).
 
@@ -106,13 +118,19 @@ Everything: [link](https://modernnexus.com/).
 
 [FALL 2019 ROTATION GUIDE](https://forums.mtgarena.com/forums/threads/57075/comments/325887).
 
+#### Stores
+
+[WotC store locator](https://locator.wizards.com/event-reservations-web/?searchType=stores&query=London, UK&distance=10&page=1&sort=date&sortDirection=asc).
+
 #### Meta
 
 
 
 #### My favorite players/streamers/content creators
 
-Proffessor, Tollarian Community - [youtube](https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA).
+[Tolarian Community College (The Professor)](https://www.youtube.com/user/tolariancommunity/videos) frequently makes videos reviewing official Magic products (decks, sets, etc), as well as third-party functional products (deck boxes, card storage, cards sleeves, etc). If you're considering purchasing something for Magic, it's worth looking to see what The Professor had to say about it if he happened to review the product already. 
+
+> I've bought products like binders and deck boxes on impulse, or without comparing options, just to find out that they're not the greatest products to be spending my money on.
 
 Draft - [Ben Stark](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg) is one of the best limited minds MTG has, and he almost exclusively streams limited. 
 
@@ -129,4 +147,3 @@ Draft - [LSV](https://www.twitch.tv/LSV) also does limited set reviews on Channe
 [Goldfish](https://www.mtggoldfish.com/).
 
 #### Other links
-
