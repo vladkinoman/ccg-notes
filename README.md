@@ -10,7 +10,7 @@ Sometimes I find time to play CCGs and write a couple of notes on the material I
 - [Artifact](#Artifact) - Valve, when? :)
 - [Gwent](#Gwent) - retired.
 - [Legends of Runeterra](#Legends-of-Runeterra) - ?
-- [Magic: The Gathering](#Magic:-The-Gathering)
+- [Magic: The Gathering](#Magic-The-Gathering)
 
 ## Artifact
 
@@ -124,7 +124,7 @@ For all your magic needs in Europe - [cardmarket](https://www.cardmarket.com/de/
 
 #### Meta
 
-
+???
 
 #### My favorite players/streamers/content creators
 
@@ -132,13 +132,37 @@ For all your magic needs in Europe - [cardmarket](https://www.cardmarket.com/de/
 
 > I've bought products like binders and deck boxes on impulse, or without comparing options, just to find out that they're not the greatest products to be spending my money on.
 
-Draft - [Ben Stark](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg) is one of the best limited minds MTG has, and he almost exclusively streams limited. 
+[Ben Stark](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg) is one of the best limited minds MTG has, and he almost exclusively streams limited. 
 
 > He teaches pick by pick, explaining the overall goal and what the meta for the set is. His guidance and insight got me to Mythic the first two seasons and continues to make me better. Legend is great too, I’ve followed him since the old console client Magic: Duels days, and he’s consistent.
 
-Draft - [LegenVD](https://www.youtube.com/user/LegenVD) is great. He spends lots of time making and explaining his picks or different options.
+[LegenVD](https://www.youtube.com/user/LegenVD) is great in Draft. He spends lots of time making and explaining his picks or different options. LegenVD makes videos about different decks in Standard and Modern for MTGO, his content is also applicable for different kinds of players.
 
-Draft - [LSV](https://www.twitch.tv/LSV) also does limited set reviews on Channel Fireball.
+[LSV](https://www.twitch.tv/LSV) also does limited set reviews on Channel Fireball.
+
+[CalebD](https://www.youtube.com/channel/UCLYO-CiS0e8Yhs-U1k6ZmXQ) - the perfect mix of serious magic, stupid decks, snarky commentary, and good music.
+
+> Especially if you enjoy great music and sarcasm.
+
+[MTG Goldfish](https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw) has interesting deck techs and video series, for all kinds of players, podcasts.
+
+[Channel Fireball](https://www.youtube.com/user/ChannelFireball) has videos from pro players for different formats, those are also really useful.
+
+[Kenji Egashira](https://www.youtube.com/user/NumotTheNummy) aka "Numot the Nummy" has an YT channel and he also streams on a regular basis. He usually plays drafts and cubes on MTGO.
+
+[Magic Aids](https://www.youtube.com/channel/UClaWphnKi16UJxRdkmFpw3A) is great deck builder and brews some interesting decks (mostly modern).
+
+> but his humor can be... let's say it is not for everyone. 
+
+[Loading Ready Run](https://www.youtube.com/user/loadingreadyrun)'s:
+
+- Tap Tap Concede - Casual podcast about magic in general, though they often talk about draft/limited at the beginning during their crack a pack. Otherwise, depending on who's available for the specific episode, gives some insight on different perspectives from the hosts.
+- North 100 - Where they talk about the Canadian Highlander format. Giving you ideas on what to add/remove, how to build an archetype, etc. Generally it's also a great podcast for brewing decks, exploring things, and how to properly play in similar competitive formats like 1 vs 1 Commander.
+- Friday Nights - On-going comedy series that Wizards of the Coast supports.
+
+[Jim Davis](https://www.youtube.com/user/jimdownside) - long MTGO game plays.
+
+[StrictlyBetterMtG](https://www.youtube.com/channel/UCpZCNYMXJI_ptSBD3t47NOQ) - budget decks.
 
 #### Deck builders and netdecks
 
