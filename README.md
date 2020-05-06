@@ -36,10 +36,6 @@ Everything: [link](https://modernnexus.com/).
 
 [Scryfall](https://scryfall.com/advanced) for searching for cards and information about cards.
 
-[The Wiki](https://mtg.gamepedia.com/Main_Page) for learning more about Magic: The Gathering's cards, characters, worlds, and history.
-
-[A BRIEF VISIT TO SOME OF THE PLANES OF MAGIC: THE GATHERING (PART 1)](https://geekandsundry.com/a-brief-visit-to-some-of-the-planes-of-magic-the-gathering/).
-
 [What Should MTG Beginners Buy](https://cardgamebase.com/what-to-buy-for-mtg-beginner/).
 
 [TCGPlayer](https://www.tcgplayer.com/) is a good place to find the prices of cards.
@@ -47,6 +43,30 @@ Everything: [link](https://modernnexus.com/).
 For all your magic needs in Europe - [cardmarket](https://www.cardmarket.com/de/Magic).
 
 [Goldfish](https://www.mtggoldfish.com/).
+
+##### Lore
+
+[The Wiki](https://mtg.gamepedia.com/Main_Page) for learning more about Magic: The Gathering's cards, characters, worlds, and history.
+
+[**Rhystic Studies**](https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg) (Sam) doesn't put out videos too often but they are all super high quality - usually taking a look at interesting card, aspect of mtg history, or showcasing the work of a particular artist. Rhystic Studies is honestly some of the most thoughtfully crafted content on YouTube, Magic or no. Definitely a great example of how succinct and and flavorful a well-made video essay can be, even though I believe he prefers to not call his videos that.
+
+The story has been released through various media over the years. I think most of the [Gatewatch](https://mtg.gamepedia.com/The_Gatewatch)-related stuff has been in articles on WOTC's site, which should be archived. Something that will help if you want to read the latest stories: [story](https://magic.wizards.com/en/story).
+
+[The Mana Source](https://www.youtube.com/user/TheManaSource) on YouTube has a great lore series where Wedge summarizes the lore from the old books. As he walks through the storyline of each book, he puts card images on the screen that reference the plot points.
+
+[Here's a lore primer that one man wrote up a while back](https://www.reddit.com/r/magicTCG/comments/57nhnm/the_lore_of_magic_the_gathering/). Also see [forgotten lore](https://www.youtube.com/playlist?list=PLxLOzV7UkojyKypl83hE4A5ShpI0YA2db) by The Magic Show (EE). Also, [search for lore flair over here](https://www.reddit.com/r/magicTCG/search?q=flair%3Alore&restrict_sr=on).
+
+How brief of a summary are we talking? Here's it told off the top of my head: [reddit post](https://www.reddit.com/r/magicTCG/comments/6t8gyi/is_here_an_abridged_version_of_the_mtg_story_i_am/?st=JDX5BYEH&sh=77382b3e).
+
+[Can someone explain the lore of MtG like I'm five?](https://www.reddit.com/r/magicTCG/comments/1lsj0s/can_someone_explain_the_lore_of_mtg_like_im_five/).
+
+[Aether Hub](https://www.youtube.com/channel/UCHgB_8rMUcVNv_VtDkdmWag). The Aether Hub has focused on the Multiverse of Magic: The Gathering. With it's wide array of fantasy worlds, called Planes, we can explore almost every fantasy setting in the lore of this single game! If you're into slinging spells, planeswalking, and brushing up on your monster guides; Aetehr Hub is the channel for you! Come on in, grab a chair, and enjoy a story with us. 
+
+[Magic Storyline Resources (The Stories and Lore Are Here)](https://www.mtgsalvation.com/forums/magic-fundamentals/magic-storyline/649232-magic-storyline-resources-the-stories-and-lore-are).
+
+You can do the following. Take your time and research the main characters and planes to get a small background on them to help go into this. Then the best thing to do is pick a set and read it. Since you're new I would start with [Magic Origins](https://mtg.gamepedia.com/Magic_Origins) and go forward from there. All stories from this set on are free on the magic website. Once you're done with that you can start tracking down older books from previous sets such as the Brothers War, Mirrodin Block, Anthologies etc. Take you're time with it and enjoy it. I was in your shoes a year ago and haven't looked back. This is basically a 25 year long continuous story.
+
+[A BRIEF VISIT TO SOME OF THE PLANES OF MAGIC: THE GATHERING (PART 1)](https://geekandsundry.com/a-brief-visit-to-some-of-the-planes-of-magic-the-gathering/).
 
 #### Forums
 
@@ -93,9 +113,25 @@ That's where you can buy cards one by one in Ukraine (the sites look strange):
 
 #### My favorite players/streamers/content creators
 
-[**Tolarian Community College (The Professor)**](https://www.youtube.com/user/tolariancommunity/videos) frequently makes videos reviewing official Magic products (decks, sets, etc), as well as third-party functional products (deck boxes, card storage, cards sleeves, etc). If you're considering purchasing something for Magic, it's worth looking to see what The Professor had to say about it if he happened to review the product already. 
+##### In general
+
+[**Rhystic Studies**](https://www.youtube.com/channel/UC8e0Sg8TmRRFJytjEGhmVTg) (Sam) doesn't put out videos too often but they are all super high quality - usually taking a look at interesting card, aspect of mtg history, or showcasing the work of a particular artist. Rhystic Studies is honestly some of the most thoughtfully crafted content on YouTube, Magic or no. Definitely a great example of how succinct and and flavorful a well-made video essay can be, even though I believe he prefers to not call his videos that.
+
+[**Tolarian Community College (The Professor)**](https://www.youtube.com/user/tolariancommunity/videos) frequently makes videos reviewing official Magic products (decks, sets, etc), as well as third-party functional products (deck boxes, card storage, cards sleeves, etc). If you're considering purchasing something for Magic, it's worth looking to see what The Professor had to say about it if he happened to review the product already.
 
 > I've bought products like binders and deck boxes on impulse, or without comparing options, just to find out that they're not the greatest products to be spending my money on.
+
+Vince ([Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw)) and The Professor are probably the biggest personalities MTG YouTube offers.
+
+[The Command Zone](https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ/featured) podcast. You should check game knights EDH matches, great personalities to watch from Josh and Jimmy.
+
+[StrictlyBetterMtG](https://www.youtube.com/channel/UCpZCNYMXJI_ptSBD3t47NOQ) - budget decks.
+
+[MTG Muddstah](https://www.youtube.com/channel/UCG8Yi6I_XYjYtvFgOleqYxg/videos) for EDH matches, Heroes and Legends for the market watch, and TCC for the booster box games.
+
+[The Manasource](https://www.reddit.com/r/magicTCG/comments/b7jkqy/best_mtg_youtubers/?sort=top) is a great channel. A little bit of everything.
+
+##### Pro streamers - where to learn
 
 [**Ben Stark**](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg) is one of the best limited minds MTG has, and he almost exclusively streams limited. 
 
@@ -144,8 +180,6 @@ That's where you can buy cards one by one in Ukraine (the sites look strange):
 > but his humor can be... let's say it is not for everyone. 
 
 [Jim Davis](https://www.youtube.com/user/jimdownside) - long MTGO game plays.
-
-[StrictlyBetterMtG](https://www.youtube.com/channel/UCpZCNYMXJI_ptSBD3t47NOQ) - budget decks.
 
 [Mega Mogwai](https://www.youtube.com/user/MegaaMogwai) has fast become one of my favourite players, he has a 10 minute or so deck tech analysis then goes through the game as he plays it. <u>He plays Legends of Runeterra now.</u>
 
