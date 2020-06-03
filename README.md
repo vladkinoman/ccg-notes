@@ -1,5 +1,3 @@
-
-
 # ccg-notes
 ## Description 
 
@@ -158,6 +156,10 @@ Vince ([Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1k
 [LSV](https://www.twitch.tv/LSV) also does limited set reviews on Channel Fireball.
 
 > For Limited: I ussually watch [Deathsie](https://www.twitch.tv/deathsie/). but make sure you catch Loius Scott Vargas (LSV) on channelfireball and "limited resources"
+>
+> LSV: One of my all time favorite magic players. Again, he does not stream much modern (if any), but is fun to watch and usually explains his lines well.
+>
+> Obligatory easy answer is LSV. He often talks through his plays. Definitely better if you're an intermediate player already, since he does play relatively fast and doesn't go into too much detail, but watching him has improved my play.
 
 [Covert Go Blue](https://www.youtube.com/user/danno029/featured) for in-depth play by play games. Covert Go Blue explains himself, to an almost excessive degree.
 
@@ -165,7 +167,13 @@ Vince ([Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1k
 
 [CalebD](https://www.youtube.com/channel/UCLYO-CiS0e8Yhs-U1k6ZmXQ) - the perfect mix of serious magic, stupid decks, snarky commentary, and good music.
 
+> Caleb Durward (CalebDmtg on twitch) usually plays modern at least one night a week and has good tournament results with Bant Spirits, which I believe he designed.
+>
 > Especially if you enjoy great music and sarcasm.
+>
+> Calebd is the best magic streamer, he steams like 8 or 9 pm est to 3 am. Not always modern but he does a good variety and used to be an active pro.
+>
+> Caleb Durward is also great, but his Modern streams are limited to once or twice a week - the rest of the time he's doing Standard, Legacy or Limited. He's a mastermind to watch during Cube season if you're interested in that.
 
 [MTG Goldfish](https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw) has interesting deck techs and video series, for all kinds of players, podcasts.
 
@@ -179,15 +187,37 @@ Vince ([Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1k
 
 > but his humor can be... let's say it is not for everyone. 
 
-[Jim Davis](https://www.youtube.com/user/jimdownside) - long MTGO game plays.
-
 [Mega Mogwai](https://www.youtube.com/user/MegaaMogwai) has fast become one of my favourite players, he has a 10 minute or so deck tech analysis then goes through the game as he plays it. <u>He plays Legends of Runeterra now.</u>
 
-[Jeff Hoogland](https://www.youtube.com/channel/UC0OFObRNMjSsnuEMGA-K29Q) usually starts off his stream by playing Modern on MTGO (which you don't have to watch if you're only interested in Standard) and then proceeds to play various decks on Arena Standard. The decks he plays are mostly user submissions, so they usually aren't what people would consider "meta" but still mostly playable decks and I love the variety. Also he doesn't play any Limited. At the end of each day he usually uploads all of his footage on his Youtube channel. His style is a cool mix of entertaining and educating.
+[Jeff Hoogland](https://www.youtube.com/channel/UC0OFObRNMjSsnuEMGA-K29Q) usually starts off his stream by playing Modern on MTGO (which you don't have to watch if you're only interested in Standard) and then proceeds to play various decks on Arena Standard. The decks he plays are mostly user submissions, so they usually aren't what people would consider "meta" but still mostly playable decks and I love the variety. Also he doesn't play any Limited. At the end of each day he usually uploads all of his footage on his Youtube channel. His style is a cool mix of entertaining and educating. 
 
+> He is probably the largest Modern streamer (close to the largest MTGO streamer outright, just behind Numot) and plays all kinds of decks. Opinions on him vary greatly (I personally don't like him, but he makes good content).
+>
+> Jeff Hoogland: pretty much only exclusively plays modern, always explains his decision making in game, has a very interactive chat if you're watching on twitch, has insane deck diversity ranging from steaming garbage to tier 1 decks
+>
 > I loved it when He played his Dino Deck with his son, that was so cute.
+>
+> Hoogland has cool rants, it's a pleasure to hear him sometimes. He's also a competent player, so I watch him every now and then if he plays a deck I like. 
+>
+> > > I like his content, just wish he didn't end every sentence with an inflection?
+> >
+> > Hoogland says on this: "Streaming is basically like teaching. The best way to teach is to ask the person learning questions to encourage them to think for themselves instead of just spoon feeding them every single answer". 
+>
+> Jeff Hoogland is the best Modern streamer currently by a large margin. He puts out 30-40 hours of content each week, and always uploads his leagues right to YouTube for easy viewing. He explains his lines very well, and is (in my opinion) the perfect amount of annoying and intelligent to make his streams consistently enjoyable.
 
 [Mengucci](https://www.twitch.tv/andreamengucci), if you're lucky enough to be able to match his schedule. He's exitable, friendly, fun and overall a great magic player.
+
+[Reid Duke](https://www.twitch.tv/reiderrabbit/) (Modern): Usuallly discusses not only the plays he makes, but every other possible play that could be made in a given situation, unfortunately does not stream a ton of modern, but what he does stream is very good
+
+> Reid Duke is an unbiased, bottomless pool of insight and information.
+
+I like squachief and [Aspiring Spike](https://www.twitch.tv/aspiringspike/) (Modern). Both 5-0 with decent frequency on a variety of decks. Pretty chill dudes too, they don’t tilt.
+
+> Aspiringspike is 80% pioneer now, Cherryxman is basically the new Squachief and he interacts with chat a lot more.
+>
+> Aspiringspike is a fantastic streamer. Jarvis Yu is also great (especially legacy). Both have modern as a secondary format tho (pioneer, legacy).
+
+If you’re looking to watch one of the better Amulet players play, [Francisco](https://www.twitch.tv/fpawlusz) is amazing at explaining what he’s doing and why.
 
 ##### For casual play
 
