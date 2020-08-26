@@ -22,7 +22,7 @@ Sometimes I find time to play CCGs and write a couple of notes on the material I
 
 [MAGIC: THE GATHERING 101 – DECK BUILDING FUNDAMENTALS](https://geekandsundry.com/magic-the-gathering-101-deck-building-fundamentals/).
 
-[GETTING INTO MAGIC: THE GATHERING – COLOR PROFILES AND ARCHETYPES](GETTING INTO MAGIC: THE GATHERING – COLOR PROFILES AND ARCHETYPES).
+[GETTING INTO MAGIC: THE GATHERING – COLOR PROFILES AND ARCHETYPES](https://geekandsundry.com/getting-into-magic-the-gathering-color-profiles-and-archetypes/).
 
 [MTG Deck Building Guide – 9 Tips To Win More Games](https://cardgamebase.com/mtg-deck-building-guide-tips/).
 
@@ -78,7 +78,7 @@ You can do the following. Take your time and research the main characters and pl
 
 #### Stores
 
-[WotC store locator](https://locator.wizards.com/event-reservations-web/?searchType=stores&query=London, UK&distance=10&page=1&sort=date&sortDirection=asc). So, I found these stores in Ukraine:
+[WotC store locator](https://locator.wizards.com/search?searchType=stores&query=Dnipro,%20Dnipropetrovsk%20Oblast,%20Ukraine,%2049000&distance=25&page=1&sort=date&sortDirection=asc). So, I found these stores in Ukraine:
 
 - [domigr.com.ua](http://domigr.com.ua/)
 - [nastolkino.com.ua](http://nastolkino.com.ua/)
@@ -130,6 +130,39 @@ Vince ([Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1k
 [The Manasource](https://www.reddit.com/r/magicTCG/comments/b7jkqy/best_mtg_youtubers/?sort=top) is a great channel. A little bit of everything.
 
 ##### Pro streamers - where to learn
+
+###### The content creators/streamers that I follow
+> More detailed info about them can be found below.
+
+Draft/Limited:
+- **Ben Stark** - [youtube](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg), [twitch](https://www.twitch.tv/BenS_MTG)
+- **LegenVD** - [youtube](https://www.youtube.com/user/LegenVD), [twitch](https://www.twitch.tv/legenvd)
+
+Historic:
+- **Wyatt Darby** - [twitch](https://www.twitch.tv/wyattdarbymtg)
+- Reid Duke - [twitch](https://www.twitch.tv/reiderrabbit)
+- Mengucci (daytime streamer)- [twitch](https://www.twitch.tv/andreamengucci)
+
+Legacy:
+- Reid Duke - [twitch](https://www.twitch.tv/reiderrabbit)
+
+Modern:
+- Reid Duke - [twitch](https://www.twitch.tv/reiderrabbit)
+- aspiringspike - [twitch](https://www.twitch.tv/aspiringspike)
+
+Standard:
+- **Wyatt Darby** - [twitch](https://www.twitch.tv/wyattdarbymtg)
+- Mengucci (daytime streamer)- [twitch](https://www.twitch.tv/andreamengucci)
+
+Casual streamers:
+- AliasV - [youtube](https://www.youtube.com/channel/UCW8G9RUYzzepznBq5Cn_3Bg), [twitch](https://www.twitch.tv/aliasv)
+- ashlizzlle - [twitch](https://www.twitch.tv/ashlizzlle)
+
+Will they return (?):
+- Mega Mogwai - [youtube](https://www.youtube.com/user/MegaaMogwai), [twitch](https://www.twitch.tv/megam0gwai)
+- Jeff Hoogland - [youtube](https://www.youtube.com/channel/UC0OFObRNMjSsnuEMGA-K29Q), [twitch](https://www.twitch.tv/jeffhoogland)
+
+###### Recommended streamers
 
 [**Ben Stark**](https://www.youtube.com/channel/UCayul8sNRs5TatadTyYh4Eg) is one of the best limited minds MTG has, and he almost exclusively streams limited. 
 
